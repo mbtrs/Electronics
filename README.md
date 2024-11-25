@@ -151,3 +151,33 @@
 
 ### **Future Considerations:**
 - If waiting for **2024–2025 releases**, the **NVIDIA RTX 50 Series** or **AMD RX 8000 Series** is expected to outperform current models significantly.
+
+----
+
+| GPU Model       | Architecture | CUDA Cores | Base Clock | Boost Clock | Memory Size | Memory Type | Memory Bandwidth | TDP  | Release Date |
+|-----------------|--------------|------------|------------|-------------|-------------|-------------|------------------|------|--------------|
+| RTX 3050        | Ampere       | 2560       | 1.55 GHz   | 1.78 GHz    | 8 GB        | GDDR6       | 224 GB/s         | 130W | Jan 2022     |
+| RTX 3060        | Ampere       | 3584       | 1.32 GHz   | 1.78 GHz    | 12 GB       | GDDR6       | 360 GB/s         | 170W | Feb 2021     |
+| RTX 3060 Ti     | Ampere       | 4864       | 1.41 GHz   | 1.67 GHz    | 8 GB        | GDDR6       | 448 GB/s         | 200W | Dec 2020     |
+| RTX 3070        | Ampere       | 5888       | 1.50 GHz   | 1.73 GHz    | 8 GB        | GDDR6       | 448 GB/s         | 220W | Oct 2020     |
+| RTX 3070 Ti     | Ampere       | 6144       | 1.58 GHz   | 1.77 GHz    | 8 GB        | GDDR6X      | 608 GB/s         | 290W | Jun 2021     |
+| RTX 3080        | Ampere       | 8704       | 1.44 GHz   | 1.71 GHz    | 10 GB       | GDDR6X      | 760 GB/s         | 320W | Sep 2020     |
+| RTX 3080 Ti     | Ampere       | 10240      | 1.37 GHz   | 1.67 GHz    | 12 GB       | GDDR6X      | 912 GB/s         | 350W | Jun 2021     |
+| RTX 3090        | Ampere       | 10496      | 1.40 GHz   | 1.70 GHz    | 24 GB       | GDDR6X      | 936 GB/s         | 350W | Sep 2020     |
+| RTX 3090 Ti     | Ampere       | 10752      | 1.56 GHz   | 1.86 GHz    | 24 GB       | GDDR6X      | 1008 GB/s        | 450W | Mar 2022     |
+| RTX 4060        | Ada Lovelace | 3072       | 1.83 GHz   | 2.46 GHz    | 8 GB        | GDDR6       | 272 GB/s         | 115W | Jun 2023     |
+| RTX 4060 Ti     | Ada Lovelace | 4352       | 2.31 GHz   | 2.54 GHz    | 8 GB / 16 GB| GDDR6       | 288 GB/s         | 160W | May 2023     |
+| RTX 4070        | Ada Lovelace | 5888       | 1.92 GHz   | 2.48 GHz    | 12 GB       | GDDR6X      | 504 GB/s         | 200W | Apr 2023     |
+| RTX 4070 Ti     | Ada Lovelace | 7680       | 2.31 GHz   | 2.61 GHz    | 12 GB       | GDDR6X      | 504 GB/s         | 285W | Jan 2023     |
+| RTX 4080        | Ada Lovelace | 9728       | 2.21 GHz   | 2.51 GHz    | 16 GB       | GDDR6X      | 736 GB/s         | 320W | Nov 2022     |
+| RTX 4090        | Ada Lovelace | 16384      | 2.23 GHz   | 2.52 GHz    | 24 GB       | GDDR6X      | 1008 GB/s        | 450W | Oct 2022     |
+
+---
+
+Based on recent reviews and expert opinions, here are some insights on the best GPUs for gaming from the options listed:
+RTX 4090: Widely regarded as the best overall GPU for gaming, the RTX 4090 offers unparalleled performance, especially at 4K resolution. It’s praised for its exceptional ray tracing capabilities and high frame rates, but it comes with a hefty price tag.
+RTX 4080: This GPU is also highly recommended for high-end gaming, providing excellent performance at 1440p and 4K. It’s a bit more affordable than the RTX 4090, making it a popular choice for gamers looking for top-tier performance without the absolute highest cost.
+RTX 4070 Ti: Known for its great balance of performance and price, the RTX 4070 Ti is ideal for gamers who want strong performance at 1440p and even 4K in some cases. It offers good value for money and is often highlighted for its efficiency and features.
+RTX 4060 Ti: This GPU is praised for being a solid mid-range option, offering good performance at 1080p and 1440p. It’s a great choice for gamers on a budget who still want to enjoy modern games with decent settings.
+RTX 3060: The RTX 3060 remains a popular choice for budget-conscious gamers. It provides good performance at 1080p and can handle 1440p gaming with some settings adjustments. It’s often recommended for those looking to build a cost-effective gaming PC3.
+Overall, the best GPU for you will depend on your specific needs, budget, and the resolution you plan to game at. If you’re aiming for the highest performance and have the budget, the RTX 4090 is the top pick. For a more balanced option, the RTX 4070 Ti offers great value. For budget-friendly builds, the RTX 3060 and RTX 4060 Ti are excellent choices.
