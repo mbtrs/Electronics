@@ -187,3 +187,24 @@ RTX 4060 Ti: This GPU is praised for being a solid mid-range option, offering go
 RTX 3060: The RTX 3060 remains a popular choice for budget-conscious gamers. It provides good performance at 1080p and can handle 1440p gaming with some settings adjustments. It’s often recommended for those looking to build a cost-effective gaming PC3.
 
 Overall, the best GPU for you will depend on your specific needs, budget, and the resolution you plan to game at. If you’re aiming for the highest performance and have the budget, the RTX 4090 is the top pick. For a more balanced option, the RTX 4070 Ti offers great value. For budget-friendly builds, the RTX 3060 and RTX 4060 Ti are excellent choices.
+
+---
+
+# NVIDIA Video Cards (2023-2024)
+
+## RTX 40-Series (Ada Lovelace Architecture)
+1. **RTX 4090**: The flagship model offering top-tier performance for gaming and professional tasks.
+2. **RTX 4080 Super**: A high-end card with excellent performance and efficiency.
+3. **RTX 4080**: Slightly lower performance than the Super variant but still very powerful.
+4. **RTX 4070 Ti Super**: Enhanced version of the 4070 Ti with better performance.
+5. **RTX 4070 Super**: Improved performance and efficiency over the base 4070.
+6. **RTX 4070 Ti**: High performance for gaming and creative work.
+7. **RTX 4070**: Solid performance for most gaming and professional applications.
+8. **RTX 4060 Ti**: Mid-range card offering good performance for its price.
+9. **RTX 4060**: Budget-friendly option with decent performance for 1080p gaming.
+
+## Upcoming Models (Rumored for Late 2024 to Early 2025)
+1. **RTX 5090**: Expected to be the next flagship model with significant performance improvements.
+2. **RTX 5080**: High-end model with advanced features and performance.
+3. **RTX 5070**: Mid-range option with good performance for its price.
+4. **RTX 5060**: Budget-friendly model aimed at 1080p gaming.
