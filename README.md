@@ -1,6 +1,6 @@
 [Computer](/computer.md)
 <br><br>
-[Computer Processor](/computer_processor.md)
+[Computer Processors](/computer_processors.md)
 <br><br>
 [Computer Monotor](computer_monitor.md)
 <br><br>
