@@ -64,7 +64,81 @@ This document compares system requirements for various games and tasks, highligh
 - **For Content Creation:** The **CPU** is more important for rendering and video production.
 - **For Overall Performance:** A **balanced build** with a high-performance CPU, GPU, and sufficient RAM is ideal.
 
+============
+
+# PC Component Requirements for Gaming and Content Creation
+
+This document compares the system requirements for various games and activities to determine which PC components are most critical for performance. It provides insights into optimal PC builds for gaming, content creation, and multitasking.
+
 ---
 
-## Need Help?
-Would you like assistance building a PC tailored for these tasks or games? Feel free to create an issue or start a discussion!
+## Key Findings by Component
+
+### 1. **CPU (Processor)**
+- **Demanding Games/Applications**:  
+  - *Fortnite (Epic Settings)*: Intel Core i7-8700 or AMD Ryzen 7 3700X.  
+  - *Call of Duty* and *Rainbow Six Siege*: High-performance CPUs needed for smooth gameplay.  
+- **Importance**:  
+  - Critical for multitasking (e.g., video editing, streaming) and running intensive games.
+
+---
+
+### 2. **GPU (Graphics Card)**
+- **Most GPU-Intensive Games**:  
+  - *Call of Duty*: Requires a high-end GPU like Nvidia RTX 3070.  
+  - *Fortnite (Epic Quality)*: Nvidia RTX 3070 or AMD RX 6700 XT recommended.  
+  - *Rainbow Six Siege*: Demands strong graphical capabilities for high FPS.  
+- **Importance**:  
+  - The most crucial component for gaming and graphical tasks.
+
+---
+
+### 3. **RAM (Memory)**
+- **Typical Requirements**:  
+  - Games like *Fortnite* and *Call of Duty*: 16GB recommended for smooth performance.  
+  - Content creation and multitasking: More RAM ensures seamless operation.  
+- **Importance**:  
+  - Sufficient RAM prevents bottlenecks during gaming and multitasking.
+
+---
+
+### 4. **Storage**
+- **Demanding Applications**:  
+  - *Fortnite*: ~30GB of space required.  
+  - *Call of Duty*: ~100GB of space recommended.  
+- **Importance**:  
+  - SSDs significantly improve load times for games and content creation.
+
+---
+
+## Specific Activities
+
+### Gaming (Most Power-Intensive):
+- Games like *Call of Duty* and *Fortnite (Epic Quality)* require high-end hardware, especially a strong GPU and CPU.
+
+### Content Creation (YouTube/TikTok Posting):
+- A strong CPU and ample RAM are necessary for video editing and rendering.
+
+### Casual Gaming (Roblox, Minecraft):
+- Runs smoothly on mid-range PCs with older or integrated GPUs.
+
+### Other Applications (Steam, Social Media):
+- Minimal hardware requirements; prioritize multitasking capabilities.
+
+---
+
+## Recommended PC Build
+
+| Component      | Recommended Specs                     |
+|----------------|---------------------------------------|
+| **CPU**        | AMD Ryzen 7 3700X or Intel Core i7-8700 |
+| **GPU**        | Nvidia RTX 3070 or AMD RX 6700 XT      |
+| **RAM**        | 16GB or more                          |
+| **Storage**    | 1TB SSD                               |
+
+---
+
+## Notes
+- For high-performance gaming, the GPU is the most important component.  
+- Content creators should focus on both CPU and RAM for video editing tasks.  
+- SSDs are essential for fast load times and smooth performance.
