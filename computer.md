@@ -1,25 +1,32 @@
-As of 2024, some of the most demanding PC games include **Cyberpunk 2077** (especially with ray tracing enabled), **Microsoft Flight Simulator 2024**, and **ARK: Survival Ascended**. Each of these games pushes hardware to its limits due to their stunning graphics, large open worlds, and intricate details.
+## Most Demanding PC Games of 2024 and Recommended Specs
 
-### Cyberpunk 2077:
-This game is notorious for its high hardware demands, particularly when using ray tracing and Path Tracing at max settings. The recommended specs for optimal performance include:
+As of 2024, some of the most demanding PC games include *Cyberpunk 2077*, *Microsoft Flight Simulator 2024*, and *ARK: Survival Ascended*. These titles push hardware to its limits due to their impressive graphics, large open worlds, and intricate details.
+
+### 1. **Cyberpunk 2077**
+*Cyberpunk 2077* is notorious for its hardware demands, especially with ray tracing and Path Tracing enabled. The recommended specs for optimal performance are:
+
 - **CPU**: Intel Core i9-12900 or AMD Ryzen 9 7900X
 - **GPU**: NVIDIA GeForce RTX 3080 Ti or AMD Radeon RX 7900 XTX
 - **RAM**: 24 GB
-- **Storage**: NVMe SSD with at least 70 GB free space
+- **Storage**: NVMe SSD with at least 70 GB of free space  
 
-### Microsoft Flight Simulator 2024:
-Known for its realistic flight simulation and detailed landscapes, this game requires powerful hardware for smooth performance, especially at higher settings and resolutions:
-- **CPU**: High-end processors like the Intel Core i9 or AMD Ryzen 9 series
-- **GPU**: At least NVIDIA RTX 4070 or AMD RX 7800 XT for 1080p ultra settings
-- **RAM**: 32 GB is recommended for best performance
+### 2. **Microsoft Flight Simulator 2024**
+This flight simulation game is incredibly demanding, especially with its realistic landscapes and high-resolution textures. The recommended specs for optimal performance include:
 
-### ARK: Survival Ascended:
-With its updated graphics powered by Unreal Engine 5, this game requires:
+- **CPU**: High-end processors like Intel Core i9 or AMD Ryzen 9 series
+- **GPU**: NVIDIA RTX 4070 or AMD RX 7800 XT for 1080p ultra settings
+- **RAM**: 32 GB  
+
+### 3. **ARK: Survival Ascended**
+Updated with Unreal Engine 5, *ARK: Survival Ascended* features high-quality graphics and expansive worlds. The recommended specs are:
+
 - **CPU**: AMD Ryzen 5 3600X or Intel Core i5-10600K
 - **GPU**: AMD Radeon RX 6800 or NVIDIA RTX 3080
-- **RAM**: 32 GB
+- **RAM**: 32 GB  
 
-For the best experience in these games, you'll need to invest in powerful GPUs like the RTX 4080 or RTX 4090,
+---
+
+For the best experience in these games, investing in high-end GPUs like the RTX 4080 or RTX 4090, along with a top-tier CPU and ample RAM, will ensure smooth gameplay at higher resolutions (1440p or 4K) with ultra settings.
 
 
 
