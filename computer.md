@@ -1,3 +1,71 @@
+## Most Demanding PC Games in 2024
+
+As of 2024, the most demanding PC games are those that utilize advanced technologies like ray tracing and next-gen graphical rendering. Here are some of the top contenders:
+
+1. **Cyberpunk 2077**  
+   - *Cyberpunk 2077* with ray tracing and path tracing requires a top-tier GPU like the **NVIDIA RTX 4090** and a high-performance CPU such as the **Intel Core i9** or **AMD Ryzen 9**.
+  
+2. **The Witcher 3: Wild Hunt (Next-Gen Update)**  
+   - Enhanced with ray tracing and upscaled textures, it demands powerful hardware to maintain high frame rates at ultra settings.
+
+3. **A Plague Tale: Requiem**  
+   - Utilizing Unreal Engine 5, *A Plague Tale: Requiem* takes full advantage of advanced lighting and textures, requiring a high-end GPU like the **RTX 3080** or **AMD RX 7900 XTX**.
+
+4. **Forspoken**  
+   - This game also uses Unreal Engine 5's advanced lighting systems, which can be very taxing on the system, requiring the **RTX 3070** or better for smooth performance.
+
+5. **Call of Duty (Modern Warfare II/Warzone 2.0)**  
+   - Known for its high-quality assets and large-scale maps, *Call of Duty* games require a powerful GPU for ray tracing and high frame rates.
+
+6. **Minecraft (with Mods & Ray Tracing)**  
+   - Although *Minecraft* can run on low-end systems, the addition of shaders and ray tracing makes it one of the more demanding titles when optimized.
+
+7. **Warframe**  
+   - *Warframe* has beautiful visuals and requires a solid GPU, though it doesn't quite match the sheer power requirements of *Cyberpunk 2077*.
+
+8. **Rainbow Six Siege**  
+   - A bit less demanding, but still requires a mid-tier CPU and GPU, particularly for high-fidelity graphics during multiplayer matches.
+
+9. **Fortnite**  
+   - While optimized, *Fortnite* becomes demanding with ray tracing and ultra settings, requiring a powerful GPU for 60 FPS gameplay at 1440p or higher.
+
+10. **Valorant, Roblox, Gorilla Tag**  
+    - These are lighter games that can run smoothly on older or mid-tier PC.
+
+## Ranking of Your Games
+
+Here’s where the games you mentioned rank in terms of demanding system requirements:
+
+- **Most Demanding**:  
+  - *Call of Duty (Modern Warfare II/Warzone 2.0)*  
+  - *Cyberpunk 2077*  
+  - *A Plague Tale: Requiem*  
+  - *Forspoken*
+
+- **Moderately Demanding**:  
+  - *Rainbow Six Siege*  
+  - *Minecraft* (with mods and ray tracing)  
+  - *Fortnite* (with ray tracing)
+
+- **Lightweight**:  
+  - *Valorant*  
+  - *Roblox*  
+  - *Gorilla Tag*
+
+## Recommended PC Components
+
+- **Graphics Card (GPU)**:  
+   - The **GPU** is the most crucial component for demanding games. The **NVIDIA RTX 4080** or **4090** is recommended for *Cyberpunk 2077*, *Call of Duty*, and other high-end games. Mid-to-high-tier GPUs like the **RTX 3070** or **RTX 3060** are suitable for less demanding games.
+
+- **Processor (CPU)**:  
+   - A **high-end CPU** like the **Intel Core i9** or **AMD Ryzen 9** is required for the most demanding games. For less demanding titles, a **mid-range CPU** like the **Intel Core i7** or **AMD Ryzen 7** would suffice.
+
+
+
+============================== NEW SECTION ==============================
+
+
+
 # PC System Requirements Analysis for Games and Content Creation
 
 This document compares system requirements for various games and tasks, highlighting the most demanding components and optimal PC build recommendations.
