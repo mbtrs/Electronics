@@ -146,3 +146,72 @@ This document compares the system requirements for various games and activities 
 - For high-performance gaming, the GPU is the most important component.  
 - Content creators should focus on both CPU and RAM for video editing tasks.  
 - SSDs are essential for fast load times and smooth performance.
+
+
+
+============================== NEW SECTION ==============================
+
+
+
+Here's a detailed comparison of the games and their respective system requirements, focusing on PC components. I'll also point out which component is most demanding for each game and the ideal system specs for optimal performance.  
+
+### Game Requirements Overview
+1. **Fortnite**  
+   - **Minimum:** Core i3-3225, Intel HD 4000, 8 GB RAM, 30 GB storage.  
+   - **Recommended:** Core i5-7300U, Nvidia GTX 960, 16 GB RAM, SSD with 30 GB available space.  
+   - **Demanding Component:** Graphics card (GPU) for higher settings and smooth performance.
+
+2. **Roblox**  
+   - **Minimum:** Any dual-core processor, integrated GPU (e.g., Intel HD Graphics 4000), 4 GB RAM, 20 MB.  
+   - **Demanding Component:** Minimal GPU or integrated graphics suffice.
+
+3. **Call of Duty (Warzone 2)**  
+   - **Minimum:** Core i5-3570 or Ryzen 5 1600X, Nvidia GTX 960 or AMD RX 570, 8 GB RAM, 175 GB SSD.  
+   - **Recommended:** Core i7-8700K, Nvidia RTX 2070, 16 GB RAM, SSD.  
+   - **Demanding Component:** GPU and storage due to the large game size.
+
+4. **Rainbow Six Siege**  
+   - **Minimum:** Core i3-560, Nvidia GTX 460, 6 GB RAM, 85 GB SSD.  
+   - **Recommended:** Core i5-2500K, GTX 670, 8 GB RAM.  
+   - **Demanding Component:** CPU for strategy and physics processing.
+
+5. **Minecraft (Java Edition)**  
+   - **Minimum:** Core i3-3210, integrated graphics, 4 GB RAM, 1 GB SSD.  
+   - **Recommended:** Core i5-4690, Nvidia GTX 700 series, 8 GB RAM.  
+   - **Demanding Component:** CPU for physics-based calculations.
+
+6. **FIFA 25, NHL 25, Madden 25**  
+   - **Minimum:** Core i3, Nvidia GTX 660, 8 GB RAM, 50 GB SSD.  
+   - **Recommended:** Core i7, Nvidia RTX 2070, 16 GB RAM.  
+   - **Demanding Component:** GPU for smooth rendering.
+
+7. **Warframe**  
+   - **Minimum:** Core 2 Duo E6400, Nvidia 8600 GT, 4 GB RAM, 10 GB SSD.  
+   - **Recommended:** Core i5-7500, Nvidia GTX 1050, 8 GB RAM.  
+   - **Demanding Component:** GPU for detailed graphics.
+
+8. **Steam**  
+   - **Minimum:** Core i3, 4 GB RAM, integrated graphics.  
+   - **Demanding Component:** CPU for application management.
+
+9. **YouTube/TikTok Content Creation**  
+   - **Demanding Component:** CPU and RAM for video editing (e.g., Core i7/i9, 16-32 GB RAM). GPU for rendering (Nvidia RTX 3060+).
+
+10. **Valiant (Valorant)**  
+    - **Minimum:** Core i3-370M, Intel HD 3000, 4 GB RAM.  
+    - **Demanding Component:** Lightweight GPU suffices.
+
+11. **Gorilla Tag**  
+    - **Minimum:** Integrated GPU, 4 GB RAM.  
+    - **Demanding Component:** Minimal GPU.
+
+### Conclusion
+- **Most Demanding Component Across Games:** GPU is the most crucial for graphics-heavy titles like *Fortnite*, *Call of Duty*, and sports simulations (*FIFA*, *NHL*).  
+- **Optimal PC Build:** For a balanced system:  
+  - **CPU:** Core i5/i7 or Ryzen 5/7 for multitasking and gaming.  
+  - **GPU:** Nvidia RTX 3060+ or AMD equivalent for modern games.  
+  - **RAM:** 16 GB for smooth performance.  
+  - **Storage:** SSD (500 GB to 1 TB) for fast loading.  
+  - **Use Case-Specific Tips:** Video creators should focus on high-end CPUs and GPUs, while casual gamers can prioritize mid-range GPUs.  
+
+If you'd like specific build recommendations for these games, let me know!
