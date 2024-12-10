@@ -1,4 +1,4 @@
-# Computer Processors
+# Computer Components
 
 
 
