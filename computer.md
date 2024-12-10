@@ -64,7 +64,9 @@ This document compares system requirements for various games and tasks, highligh
 - **For Content Creation:** The **CPU** is more important for rendering and video production.
 - **For Overall Performance:** A **balanced build** with a high-performance CPU, GPU, and sufficient RAM is ideal.
 
-============
+====================================================================================================================
+================================================= NEW SECTION ======================================================
+====================================================================================================================
 
 # PC Component Requirements for Gaming and Content Creation
 
