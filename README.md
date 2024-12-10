@@ -1,4 +1,4 @@
-[Computer](/computer.md)
+[Computer Games](/computer_games.md)
 <br><br>
 [Computer Processors](/computer_processors.md)
 <br><br>
