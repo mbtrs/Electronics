@@ -1,3 +1,32 @@
+# Table of Contents
+
+1. [Most Demanding PC Games in 2024](#most-demanding-pc-games-in-2024)
+   - [Ranking of Your Games](#ranking-of-your-games)
+   - [Recommended PC Components](#recommended-pc-components)
+2. [PC System Requirements Analysis for Games and Content Creation](#pc-system-requirements-analysis-for-games-and-content-creation)
+   - [Gaming](#gaming)
+   - [Content Creation and Streaming](#content-creation-and-streaming)
+   - [System Requirements Summary](#system-requirements-summary)
+   - [Component Recommendations](#component-recommendations)
+3. [PC Component Requirements for Gaming and Content Creation](#pc-component-requirements-for-gaming-and-content-creation)
+   - [Key Findings by Component](#key-findings-by-component)
+   - [Specific Activities](#specific-activities)
+   - [Recommended PC Build](#recommended-pc-build)
+   - [Notes](#notes)
+4. [Detailed Game Requirements Overview](#detailed-game-requirements-overview)
+   - [Fortnite](#fortnite)
+   - [Roblox](#roblox)
+   - [Call of Duty (Warzone 2)](#call-of-duty-warzone-2)
+   - [Rainbow Six Siege](#rainbow-six-siege)
+   - [Minecraft (Java Edition)](#minecraft-java-edition)
+   - [FIFA 25, NHL 25, Madden 25](#fifa-25-nhl-25-madden-25)
+   - [Warframe](#warframe)
+   - [Steam](#steam)
+   - [YouTube/TikTok Content Creation](#youtube-tiktok-content-creation)
+   - [Valorant](#valorant)
+   - [Gorilla Tag](#gorilla-tag)
+   - [Conclusion](#conclusion)
+
 ## Most Demanding PC Games in 2024
 
 As of 2024, the most demanding PC games are those that utilize advanced technologies like ray tracing and next-gen graphical rendering. Here are some of the top contenders:
