@@ -1,31 +1,31 @@
-# Table of Contents
+As of 2024, some of the most demanding PC games include **Cyberpunk 2077** (especially with ray tracing enabled), **Microsoft Flight Simulator 2024**, and **ARK: Survival Ascended**. Each of these games pushes hardware to its limits due to their stunning graphics, large open worlds, and intricate details.
 
-1. [Most Demanding PC Games in 2024](#most-demanding-pc-games-in-2024)
-   - [Ranking of Your Games](#ranking-of-your-games)
-   - [Recommended PC Components](#recommended-pc-components)
-2. [PC System Requirements Analysis for Games and Content Creation](#pc-system-requirements-analysis-for-games-and-content-creation)
-   - [Gaming](#gaming)
-   - [Content Creation and Streaming](#content-creation-and-streaming)
-   - [System Requirements Summary](#system-requirements-summary)
-   - [Component Recommendations](#component-recommendations)
-3. [PC Component Requirements for Gaming and Content Creation](#pc-component-requirements-for-gaming-and-content-creation)
-   - [Key Findings by Component](#key-findings-by-component)
-   - [Specific Activities](#specific-activities)
-   - [Recommended PC Build](#recommended-pc-build)
-   - [Notes](#notes)
-4. [Detailed Game Requirements Overview](#detailed-game-requirements-overview)
-   - [Fortnite](#fortnite)
-   - [Roblox](#roblox)
-   - [Call of Duty (Warzone 2)](#call-of-duty-warzone-2)
-   - [Rainbow Six Siege](#rainbow-six-siege)
-   - [Minecraft (Java Edition)](#minecraft-java-edition)
-   - [FIFA 25, NHL 25, Madden 25](#fifa-25-nhl-25-madden-25)
-   - [Warframe](#warframe)
-   - [Steam](#steam)
-   - [YouTube/TikTok Content Creation](#youtube-tiktok-content-creation)
-   - [Valorant](#valorant)
-   - [Gorilla Tag](#gorilla-tag)
-   - [Conclusion](#conclusion)
+### Cyberpunk 2077:
+This game is notorious for its high hardware demands, particularly when using ray tracing and Path Tracing at max settings. The recommended specs for optimal performance include:
+- **CPU**: Intel Core i9-12900 or AMD Ryzen 9 7900X
+- **GPU**: NVIDIA GeForce RTX 3080 Ti or AMD Radeon RX 7900 XTX
+- **RAM**: 24 GB
+- **Storage**: NVMe SSD with at least 70 GB free space
+
+### Microsoft Flight Simulator 2024:
+Known for its realistic flight simulation and detailed landscapes, this game requires powerful hardware for smooth performance, especially at higher settings and resolutions:
+- **CPU**: High-end processors like the Intel Core i9 or AMD Ryzen 9 series
+- **GPU**: At least NVIDIA RTX 4070 or AMD RX 7800 XT for 1080p ultra settings
+- **RAM**: 32 GB is recommended for best performance
+
+### ARK: Survival Ascended:
+With its updated graphics powered by Unreal Engine 5, this game requires:
+- **CPU**: AMD Ryzen 5 3600X or Intel Core i5-10600K
+- **GPU**: AMD Radeon RX 6800 or NVIDIA RTX 3080
+- **RAM**: 32 GB
+
+For the best experience in these games, you'll need to invest in powerful GPUs like the RTX 4080 or RTX 4090,
+
+
+
+============================== NEW SECTION ==============================
+
+
 
 ## Most Demanding PC Games in 2024
 
