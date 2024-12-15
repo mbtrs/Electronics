@@ -2,6 +2,6 @@
 <br><br>
 [Computer Components](/computer_components.md)
 <br><br>
-[Computer Monotor](computer_monitor.md)
+[Computer Monitor](computer_monitor.md)
 <br><br>
 [TV](/tv.md)
