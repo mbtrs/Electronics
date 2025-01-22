@@ -216,4 +216,14 @@
 2. **Bridge Width:** The distance between the two lenses. Affects the fit of the frame on your nose.
 3. **Temple Length:** The length of the arm from the hinge to the end that wraps behind your ear. Provides comfort and stability.
 4. **Lens Height:** The vertical length of the lens, important for bifocals or progressive lenses.
-5. **Frame Width:** The overall width of the entire frame, ensuring the frame fits your face
+5. **Frame Width:** The overall width of the entire frame, ensuring the frame fits your face well. 
+
+### Considerations for Frame Selection
+- **Face Shape:** Choose frames that complement your face shape.
+  - Round faces generally suit angular frames.
+  - Square faces match well with round or oval frames.
+  - Oval faces typically look good with most frame styles.
+  - Heart-shaped faces benefit from bottom-heavy frames.
+- **Lifestyle Needs:** Consider factors like durability, weight, and flexibility if you have an active lifestyle or need the frames for specific tasks.
+- **Comfort:** Ensure the frames don't pinch the nose or temples and that they are lightweight enough for prolonged wear.
+- **Aesthetics:** Consider the frame color and style to match your personality and wardrobe.
