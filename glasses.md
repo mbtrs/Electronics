@@ -227,3 +227,32 @@
 - **Lifestyle Needs:** Consider factors like durability, weight, and flexibility if you have an active lifestyle or need the frames for specific tasks.
 - **Comfort:** Ensure the frames don't pinch the nose or temples and that they are lightweight enough for prolonged wear.
 - **Aesthetics:** Consider the frame color and style to match your personality and wardrobe.
+
+# Lens Coatings Duration and Care Tips
+
+The durability of lens coatings, such as anti-reflective and scratch-resistant coatings, can vary based on several factors. On average, these coatings can last between 1 to 2 years with proper care. Here are some tips to help you maintain and extend the lifespan of your lenses:
+
+## Proper Cleaning
+- **Use a microfiber cloth:** Avoid paper towels or other rough materials that could scratch the coating.
+- **Lens cleaning solution:** Use solutions specifically designed for lenses, rather than household cleaners which might damage the coating.
+
+## Safe Storage
+- **Protective case:** Always store your glasses in a cushioned case when not in use to prevent accidental damage.
+- **Avoid harsh environments:** Keep your glasses away from high temperatures or direct sunlight for extended periods, as heat can degrade the coating.
+
+## Regular Maintenance
+- **Routine check-ups:** Visit your optician regularly to ensure your coatings are intact and your prescription is up-to-date.
+- **Gentle handling:** Always handle your glasses by the frame to avoid adding stress to the lenses and coatings.
+
+## Manufacturer’s Warranty
+- **Check warranties:** Some premium coatings come with warranties that can cover repairs or replacements in case of damage. Make sure to know the terms and conditions of such warranties when you purchase your glasses.
+
+## Summary of Coatings Durability
+| Coating Type              | Average Duration | Care Tips                                                                                                  |
+|---------------------------|------------------|------------------------------------------------------------------------------------------------------------|
+| Anti-Reflective Coating   | 1-2 years        | Use microfiber cloth, avoid household cleaners, store in protective case                                   |
+| Scratch-Resistant Coating | 1-2 years        | Handle gently, avoid rough materials, follow proper cleaning procedures                                    |
+| UV Protection Coating     | Integrated       | Regular lens care and check-ups                                                                            |
+| Blue Light Blocking       | Integrated       | Standard maintenance procedures, consider special cleaning solutions                                       |
+
+Extending the life of your lens coatings through careful use and maintenance can help you get the most out of your investment. If you follow these tips, you'll find that your lenses remain in great condition for as long as possible. 
