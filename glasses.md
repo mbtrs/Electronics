@@ -75,3 +75,71 @@
 | Seiko Optical Prod. | Aspheric Single Vision (1995) | SEIKO Superior (2008)           | SEIKO Prime (2020)                  |
 | Nikon Lenswear      | Lite Bifocal (2000)           | SeeCoat Blue (2014)             | Presio i (2005)                     |
 | Shamir Optical Ind. | Autograph II (2006)           | Blue Zero™ (2015)               | Intouch™ (2010)                     |
+
+# Lens Colors and Their Pros & Cons
+
+## Different Lens Colors
+
+### 1. Gray/Black Lenses
+**Pros:**
+- Neutral color perception
+- Effective in both sunny and cloudy conditions
+- Reduces glare effectively
+- Suitable for everyday use, driving, and outdoor activities
+
+**Cons:**
+- Doesn't enhance contrast as much as other colors
+
+### 2. Brown/Amber Lenses
+**Pros:**
+- Enhances contrast and depth perception
+- Ideal for overcast conditions and certain activities like golfing
+- Reduces glare
+
+**Cons:**
+- Might cause slight color distortion in certain conditions
+
+### 3. Yellow Lenses
+**Pros:**
+- Great for low-light conditions
+- Enhances contrast and depth perception
+- Reduces haze and improves visual clarity in foggy conditions
+
+**Cons:**
+- Not suitable for very bright conditions
+
+### 4. Green Lenses
+**Pros:**
+- Provides a good balance of glare reduction and contrast enhancement
+- Minimized color distortion, maintaining a natural color balance
+- Suitable for all conditions and activities
+
+**Cons:**
+- Not as effective in low-light conditions as yellow lenses
+
+### 5. Blue/Purple Lenses
+**Pros:**
+- Reduces glare from digital screens and snowy conditions
+- Enhances color perception
+- Fashionable, often used for aesthetic purposes
+
+**Cons:**
+- Might distort colors in certain conditions
+
+### 6. Pink/Red Lenses
+**Pros:**
+- Enhances contrast and depth perception
+- Reduces eye strain and glare
+- Suitable for snow and low-light conditions
+
+**Cons:**
+- Can cause color distortion in bright sunlight
+
+## Transition Lenses
+
+### Transition Lens Colors
+1. **Gray** - Offers neutral color perception and is effective in both sunny and cloudy conditions.
+2. **Brown** - Enhances contrast and depth perception, ideal for overcast conditions.
+3. **Amethyst** - Combines the benefits of gray and brown, offering neutral color perception along with enhanced color contrasts.
+4. **Emerald** - Optimizes natural vision, enhancing clarity and contrast without being overly dark.
+5. **Sapphire** - Maximizes color contrast, especially in lower light conditions.
